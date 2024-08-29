@@ -1,0 +1,17 @@
+ID: 1, Timestamp: 2024-08-29 15:01:33, Image Path: haarcascade_russian_plate_number\plate_1.png
+ID: 2, Timestamp: 2024-08-29 15:02:35, Image Path: haarcascade_russian_plate_number\plate_2.png
+ID: 3, Timestamp: 2024-08-29 15:02:35, Image Path: haarcascade_russian_plate_number\plate_3.png
+ID: 4, Timestamp: 2024-08-29 15:02:35, Image Path: haarcascade_russian_plate_number\plate_4.png
+ID: 5, Timestamp: 2024-08-29 15:02:36, Image Path: haarcascade_russian_plate_number\plate_5.png
+ID: 6, Timestamp: 2024-08-29 15:03:09, Image Path: haarcascade_russian_plate_number\plate_6.png
+ID: 7, Timestamp: 2024-08-29 15:05:44, Image Path: haarcascade_russian_plate_number\plate_7.png
+ID: 8, Timestamp: 2024-08-29 15:05:47, Image Path: haarcascade_russian_plate_number\plate_8.png
+ID: 9, Timestamp: 2024-08-29 15:05:47, Image Path: haarcascade_russian_plate_number\plate_9.png
+ID: 10, Timestamp: 2024-08-29 15:05:48, Image Path: haarcascade_russian_plate_number\plate_10.png
+ID: 11, Timestamp: 2024-08-29 15:05:48, Image Path: haarcascade_russian_plate_number\plate_11.png
+ID: 12, Timestamp: 2024-08-29 15:05:48, Image Path: haarcascade_russian_plate_number\plate_12.png
+ID: 13, Timestamp: 2024-08-29 15:05:48, Image Path: haarcascade_russian_plate_number\plate_13.png
+ID: 14, Timestamp: 2024-08-29 15:05:49, Image Path: haarcascade_russian_plate_number\plate_14.png
+ID: 15, Timestamp: 2024-08-29 15:05:49, Image Path: haarcascade_russian_plate_number\plate_15.png
+ID: 16, Timestamp: 2024-08-29 15:05:50, Image Path: haarcascade_russian_plate_number\plate_16.png
+ID: 17, Timestamp: 2024-08-29 15:05:51, Image Path: haarcascade_russian_plate_number\plate_17.png
